@@ -1,1 +1,2 @@
-
+config:
+  info: master brance,springcloud/config-test.yml version=1
